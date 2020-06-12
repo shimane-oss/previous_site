@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>しまねOSS協議会</title>
+    <link>http://www.shimane-oss.org/rss.xml/</link>
+    <language>ja-jp</language>
+    <ttl>40</ttl>
+    <description>しまねOSS協議会の行事・お知らせです。</description>
+    
+    
+        <item>
+          <title>しまねOSS協議会メーリングリスト一時停止のお知らせ</title>
+          <description>&lt;p&gt;平素は、しまねOSS協議会の活動にご協力いただきありがとうございます。&lt;br /&gt;
+&lt;span style=&quot;color: yellow;font-size: 16px;&quot;&gt;&lt;strong&gt;しまねOSS協議会のメーリングリスト（メールアドレス：os4@3in.ne.jp）を稼働しているサーバに障害が発生し、現在メーリングリストの稼働を停止しております。&lt;br /&gt;
+利用者の皆様にはご不便をおかけしますが、ご了承いただきますようお願いいたします。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</description>
+          <pubDate>Fri, 11 Oct 2019 06:38:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2019/10/11/os4-ml-down/</guid>
+          <link>http://www.shimane-oss.org/events/2019/10/11/os4-ml-down/</link>
+        </item>
+    
+        <item>
+          <title>第129回オープンソースサロン</title>
+          <description>&lt;p&gt;第129回オープンソースサロンを開催します。&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みは必要ありません（人数把握のため、下記申し込みサイトから事前登録していただけると助かります）。&lt;br /&gt;
+当日、会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;サロンの後に懇親会を行います。懇親会に参加をご希望の方は、以下のサイトまたはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第129回オープンソースサロン＆懇親会申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/166941/&quot; target=&quot;_blank&quot;&gt;https://connpass.com/event/166941/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2020年3月6日(金) 18時30分～20時00分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ1&lt;/td&gt;
+		&lt;td&gt;島根県産業技術センターの紹介&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者1&lt;/td&gt;
+		&lt;td&gt;島根県産業技術センター 所長 辰野 恭市 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要1&lt;/td&gt;
+		&lt;td&gt;島根県産業技術センターは、県内企業の支援のための試験研究機関です。&lt;br /&gt;
+センターの役割と主な仕事、組織の構成を紹介します。&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ2&lt;/td&gt;
+		&lt;td&gt;ROSを用いた自律走行の取り組み&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者2&lt;/td&gt;
+		&lt;td&gt;島根県産業技術センター 佐々木 友彰 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要2&lt;/td&gt;
+		&lt;td&gt;Robot Operating System (&lt;span class=&quot;caps&quot;&gt;ROS&lt;/span&gt;)は、ロボット制御の分野で大変注目されているミドルウェアです。&lt;br /&gt;
+ロボットのソフトウェア開発を大幅に簡易化します。ROSの概要と注目される理由、&lt;br /&gt;
+ロボットの自律走行での使用例について紹介します。&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Wed, 19 Feb 2020 10:03:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2020/02/19/salon-129/</guid>
+          <link>http://www.shimane-oss.org/events/2020/02/19/salon-129/</link>
+        </item>
+    
+        <item>
+          <title>松江オープンソース活用ビジネスプランコンテスト2020のお知らせ</title>
+          <description>&lt;p&gt;しまねOSS協議会と松江市は、プログラミング言語Rubyに代表されるオープンソースに関する&lt;br /&gt;
+広報、啓発活動並びにオープンソースに対する理解を高めるため、&lt;br /&gt;
+「松江オープンソース活用ビジネスプランコンテスト2020」&lt;br /&gt;
+を実施いたします。2009年から毎年開催しており、2020年で第12回目の開催となります。&lt;/p&gt;
+&lt;p&gt;また、2020年2月22日（土）に行われる最終審査会では、2018年学生部門最優秀賞受賞者&lt;br /&gt;
+佐藤　公治 氏の特別講演を行います。&lt;/p&gt;
+&lt;p&gt;応募方法等の詳細は以下のページをご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/biz-contest2020/&quot;&gt;&lt;img src=&quot;/biz-contest2020/images/banner_234-60.gif&quot; alt=&quot;松江オープンソース活用ビジネスプランコンテスト2020&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+          <pubDate>Fri, 11 Oct 2019 14:40:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2019/10/11/bpc2020/</guid>
+          <link>http://www.shimane-oss.org/events/2019/10/11/bpc2020/</link>
+        </item>
+    
+        <item>
+          <title>第128回オープンソースサロン</title>
+          <description>&lt;p&gt;第128回オープンソースサロンを開催します。&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;サロンの後に懇親会を行います。懇親会に参加をご希望の方は、以下のサイトまたはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第128回オープンソースサロン申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/160213/&quot; target=&quot;_blank&quot;&gt;https://connpass.com/event/160213/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2020年1月31日(金) 18時30分～20時00分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ&lt;/td&gt;
+		&lt;td&gt;2019年のテックカンファレンスを振り返る&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者&lt;/td&gt;
+		&lt;td&gt;株式会社モンスター・ラボ 羽角 均 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要&lt;/td&gt;
+		&lt;td&gt;RubyKaigiや米国、ポーランドなどのカンファレンスでトーク&lt;br /&gt;
+してきました。感じたこと、見てきたことについてお話します。&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Wed, 22 Jan 2020 19:28:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2020/01/22/salon-128/</guid>
+          <link>http://www.shimane-oss.org/events/2020/01/22/salon-128/</link>
+        </item>
+    
+        <item>
+          <title>第127回オープンソースサロン＋忘年会</title>
+          <description>&lt;p&gt;第127回オープンソースサロンを開催します。&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;今回のサロンは、年内最後の開催となりますので、講演後に盛大な忘年会を行います。&lt;br /&gt;
+忘年会に参加をご希望の方は、以下のサイトまたはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第127回オープンソースサロン 忘年会申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/155324/&quot; target=&quot;_blank&quot;&gt;https://connpass.com/event/155324/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2019年12月17日(火) サロン：18時30分～20時00分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ1&lt;/td&gt;
+		&lt;td&gt;自費出版を支える技術&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者1&lt;/td&gt;
+		&lt;td&gt;エクスウェア株式会社 山折 一平 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要1&lt;/td&gt;
+		&lt;td&gt;調整中&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ2&lt;/td&gt;
+		&lt;td&gt;プロコン参加報告&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者2&lt;/td&gt;
+		&lt;td&gt;松江工業高等専門学校 学生数名、杉山 耕一朗 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要2&lt;/td&gt;
+		&lt;td&gt;プロコン課題部門の成果発表 x 2 件 (学生)&lt;br /&gt;
+プロコン準備に企業さんが加わったことの効果 (杉山先生)&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Sun, 10 Nov 2019 19:38:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2019/11/10/salon-127/</guid>
+          <link>http://www.shimane-oss.org/events/2019/11/10/salon-127/</link>
+        </item>
+    
+        <item>
+          <title>アイデアをビジネスプランに落とし込むためのワークショップ</title>
+          <description>&lt;p&gt;「アイデアをビジネスプランに落とし込むためのワークショップ」を開催します。&lt;/p&gt;
+&lt;p&gt;毎年開催されているビジネスプランコンテストの様式を使って、&lt;br /&gt;
+アイディアをビジネスプランにブラシュアップする体験をするワークショップです。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.shimane-oss.org/biz-contest2020/&quot;&gt;松江オープンソース活用ビジネスプランコンテスト2020&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ビジネスプランとして使用するアイディアは、既存のサービスをサンプルとして用いて、&lt;br /&gt;
+そのサービスが生まれる前の社会情勢や必要性、課題などを考えたうえで、&lt;br /&gt;
+そのサービスを実現するために必要なオープソースソフトウェアやお金、&lt;br /&gt;
+収支計画などをチームごとに考えます。&lt;/p&gt;
+&lt;p&gt;参加をご希望の方は、以下のサイトまたはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;アイデアをビジネスプランに落とし込むためのワークショップ 申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/155448/&quot; target=&quot;_blank&quot;&gt;https://connpass.com/event/155448/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご参加をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2019年12月7日(土) 10時00分～15時00分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;br /&gt;
+主催：　松江オープンソース活用ビジネスプランコンテスト実行委員会&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;日程&lt;/td&gt;
+		&lt;td&gt;10:00〜 開会・事務連絡・アイスブレイク&lt;br /&gt;
+10:10〜 概要説明&lt;br /&gt;
+10:20〜 ワークショップ&lt;br /&gt;
+12:00〜 お昼休憩&lt;br /&gt;
+13:00〜 ワークショップ（続き）&lt;br /&gt;
+14:00〜 発表&lt;br /&gt;
+15:00〜 解散&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;持参品&lt;/td&gt;
+		&lt;td&gt;ノートパソコン（持っていない人は会場のPCを貸し出します。）&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;その他&lt;/td&gt;
+		&lt;td&gt;現在、企画検討中につき、詳細が決まりましたら後日追記します。&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Mon, 11 Nov 2019 17:58:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2019/11/11/bpc-ws-1/</guid>
+          <link>http://www.shimane-oss.org/events/2019/11/11/bpc-ws-1/</link>
+        </item>
+    
+        <item>
+          <title>「RubyWorld Conference 2019」開催</title>
+          <description>&lt;p&gt;今年もRuby市場、ビジネスの拡大を目指して「RubyWorld Conference 2019」を開催いたします。&lt;br /&gt;
+今回で「RubyWorld Conference」は11回目となります。&lt;br /&gt;
+しまねOSS協議会は、実行委員会のメンバーならびにGoldスポンサーとして「RubyWorld Conference」の開催を支援しています。&lt;/p&gt;
+&lt;p&gt;■開　催：2019年11月7日(木)、8日(金)&lt;br /&gt;
+■会　場：島根県立産業交流会館「くにびきメッセ」&lt;br /&gt;
+■主　催：RubyWorld Conference開催実行委員会&lt;br /&gt;
+■基調講演者：&lt;br /&gt;
+　基調講演1：まつもと ゆきひろ 氏 ((一財)Rubyアソシエーション 理事長)&lt;br /&gt;
+　基調講演2：Nadia Odunayo 氏 (The StoryGraph Founder And &lt;span class=&quot;caps&quot;&gt;CEO&lt;/span&gt;)&lt;br /&gt;
+■入場料：5,000円/名&lt;br /&gt;
+■最新情報はWEBサイトから！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://2019.rubyworld-conf.org/&quot;&gt;https://2019.rubyworld-conf.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://2019.rubyworld-conf.org/&quot;&gt;&lt;img src=&quot;/assets/171/banner_C01_234_60.jpg&quot;  alt='Ruby World Conference 2019 sponsor 234 60' /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+          <pubDate>Thu, 29 Aug 2019 09:54:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2019/08/29/rubyworld-conference-2019/</guid>
+          <link>http://www.shimane-oss.org/events/2019/08/29/rubyworld-conference-2019/</link>
+        </item>
+    
+        <item>
+          <title>オープンソースカンファレンス 2019 Shimane</title>
+          <description>&lt;p&gt;「オープンソースカンファレンス 2019 Shimane」を松江で開催します。&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;&lt;nobr&gt;開催日&lt;/nobr&gt;&lt;/td&gt;
+		&lt;td&gt;2019年9月28日（土）10:00〜17:00&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;&lt;nobr&gt;場　所&lt;/nobr&gt;&lt;/td&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;セミナー会場&lt;/td&gt;
+		&lt;td&gt;松江テルサ4F 研修室１&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;&lt;/td&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;ワイもく@島根会場・展示ブース&lt;/td&gt;
+		&lt;td&gt;松江テルサ4F 大会議室&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;2018年の様子&lt;br /&gt;
+&lt;a href=&quot;https://www.ospn.jp/press/20181207osc2018-shimane-report.html&quot;&gt;https://www.ospn.jp/press/20181207osc2018-shimane-report.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2017年の様子&lt;br /&gt;
+&lt;a href=&quot;https://www.ospn.jp/press/20171030osc2017-shimane-report.html&quot;&gt;https://www.ospn.jp/press/20171030osc2017-shimane-report.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;松江での開催は、今回で12回目となります。&lt;br /&gt;
+今年も引き続き地元が主体となり、前回までと同様に以下のような形で開催いたします。&lt;/p&gt;
+&lt;p&gt;1. セミナーおよび展示の参加が無料！&lt;/p&gt;
+&lt;p&gt;　通常のOSCでは企業の参加には協賛金を頂いておりますが、島根開催は今回も無料で参加可能です。&lt;br /&gt;
+　コミュニティおよび個人の参加はこれまでどおり無料です。&lt;/p&gt;
+&lt;p&gt;2. セミナー枠の時間が短い！&lt;/p&gt;
+&lt;p&gt;　セミナー1枠の持ち時間は15分とします。&lt;br /&gt;
+　これにより、普段発表の機会が少ない方にもご参加しやすくなっております。&lt;br /&gt;
+　もし、15分以上の時間が欲しい方はお申し込みの際にご相談下さい。&lt;/p&gt;
+&lt;p&gt;3. 懇親会！&lt;/p&gt;
+&lt;p&gt;　毎年、大変盛り上がる（？！）懇親会を今年も行います。&lt;br /&gt;
+　こちらは定員がありますので、お早めにお申込み下さい。&lt;br /&gt;
+　(只今準備中です。)&lt;/p&gt;
+&lt;p&gt;4. 申し込み方法&lt;/p&gt;
+&lt;p&gt;　セミナーおよび展示を希望される方は、添付の申込書をしまねOSS協議会事務局までEメールにてご送付願います。&lt;br /&gt;
+　申込書送付先：&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;br /&gt;
+　申込書の受付は、【8月30日(金)を締切】とさせていただいていますが、募集枠が埋まり次第受付を終了させていただきますので、お早めにお申し込み下さい。&lt;br /&gt;
+　また、公式サイトにて最新情報を順次公開していきますので、こちらもあわせてご参照下さい。&lt;br /&gt;
+　申込書：&lt;a href=&quot;/assets/166/OSC2019_Shimane.ods&quot;&gt;オープンソースカンファレンス2019 Shimane 発表・展示申込書(ods)&lt;/a&gt;&lt;br /&gt;
+　　　　　&lt;a href=&quot;/assets/167/OSC2019_Shimane.xlsx&quot;&gt;オープンソースカンファレンス2019 Shimane 発表・展示申込書(xlsx)&lt;/a&gt;&lt;br /&gt;
+　公式サイト：&lt;a href=&quot;https://www.ospn.jp/osc2019-shimane/&quot;&gt;https://www.ospn.jp/osc2019-shimane/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5. LIVE配信&lt;/p&gt;
+&lt;p&gt;　当日セミナーの様子をYouTubeで配信します！ご視聴はこちら(終了しました)から&lt;/p&gt;
+&lt;p&gt;当日は一人でも多くの方がOSSに触れ、交流し、OSSの「今」を感じて頂きたく、皆様お誘いあわせのうえご参加頂けることを願っております。&lt;br /&gt;
+＊　詳細な内容につきましては公式Webサイトをご参照頂き、セミナーや展示の内容をご確認下さい。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ospn.jp/osc2019-shimane/&quot;&gt;http://www.ospn.jp/osc2019-shimane/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.ospn.jp/osc2019-shimane/&quot;&gt;&lt;img src=&quot;/assets/165/OSC2019Shimane_poster.png&quot;  alt='OSC2019Shimaneポスター' /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+          <pubDate>Tue, 09 Jul 2019 17:54:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2019/07/09/osc2019shimane/</guid>
+          <link>http://www.shimane-oss.org/events/2019/07/09/osc2019shimane/</link>
+        </item>
+    
+        <item>
+          <title>※開催決定！ 　第126回オープンソースサロン・総会記念講演</title>
+          <description>&lt;hr /&gt;
+&lt;p&gt;&lt;span style=&quot;color: yellow;font-size: 20px;&quot;&gt;&lt;strong&gt;変更となった日程が決まりました！&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;第126回オープンソースサロンを開催します。　&lt;br /&gt;
+今回は、しまねOSS協議会年次総会記念講演となります。&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;サロンの後に懇親会を行います。懇親会に参加をご希望の方は、以下のサイト&lt;br /&gt;
+またはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第126回オープンソースサロン 懇親会申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/140105/&quot; target=&quot;_blank&quot;&gt;https://connpass.com/event/140105/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2019年8月5日(月) 18時30分～20時00分&lt;br /&gt;
+会場：　松江テルサ別館2階　オープンソースラボ&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;タイトル&lt;/td&gt;
+		&lt;td&gt;グロービスのデジタルトランスフォーメーションを牽引したRuby活用事例&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;講演者&lt;/td&gt;
+		&lt;td&gt;株式会社グロービス リードエンジニア 末永 昌也 氏&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Wed, 26 Jun 2019 18:53:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2019/06/26/salon-126/</guid>
+          <link>http://www.shimane-oss.org/events/2019/06/26/salon-126/</link>
+        </item>
+    
+        <item>
+          <title>第125回オープンソースサロン</title>
+          <description>&lt;p&gt;第125回オープンソースサロンを開催します。&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;サロンの後に懇親会を行います。懇親会に参加をご希望の方は、以下のサイトまたはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第125回オープンソースサロン申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/125099/&quot;&gt;https://connpass.com/event/125099/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2019年4月8日(月) 18時30分～20時00分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ1&lt;/td&gt;
+		&lt;td&gt;なぜ高専か、なぜ松江か ー　とある保護者の視点から&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者1&lt;/td&gt;
+		&lt;td&gt;windhole／サイボウズ株式会社 風穴 江 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ2&lt;/td&gt;
+		&lt;td&gt;Chainer meetup参加報告とVTuber界隈の近況（地元発表者枠）&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者2&lt;/td&gt;
+		&lt;td&gt;フリーランスエンジニア・VTuber 田上 健太 氏&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Tue, 02 Apr 2019 18:34:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2019/04/02/salon-125/</guid>
+          <link>http://www.shimane-oss.org/events/2019/04/02/salon-125/</link>
+        </item>
+    
+        <item>
+          <title>第124回オープンソースサロン</title>
+          <description>&lt;p&gt;第124回オープンソースサロンを開催します。&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;サロンの後に懇親会を行います。懇親会に参加をご希望の方は、以下のサイトまたはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第124回オープンソースサロン申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/121492/&quot;&gt;https://connpass.com/event/121492/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2019年3月8日(金) 18時30分～20時00分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ1&lt;/td&gt;
+		&lt;td&gt;飲食店のフードロスを削減する社会派サービス「TABETE」について&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者1&lt;/td&gt;
+		&lt;td&gt;株式会社コークッキング 主任技術者 榊原 徹哉 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ2&lt;/td&gt;
+		&lt;td&gt;松江オープンソース活用ビジネスプランコンテスト報告&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者2-1&lt;/td&gt;
+		&lt;td&gt;吉田 利幸 氏 「テストバンク」&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者2-2&lt;/td&gt;
+		&lt;td&gt;ブルーオメガ 「バスココ」&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Tue, 05 Mar 2019 19:55:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2019/03/05/salon-124/</guid>
+          <link>http://www.shimane-oss.org/events/2019/03/05/salon-124/</link>
+        </item>
+    
+        <item>
+          <title>松江オープンソース活用ビジネスプランコンテスト2019のお知らせ</title>
+          <description>&lt;p&gt;しまねOSS協議会と松江市は、プログラミング言語Rubyに代表されるオープンソースに関する&lt;br /&gt;
+広報、啓発活動並びにオープンソースに対する理解を高めるため、&lt;br /&gt;
+「松江オープンソース活用ビジネスプランコンテスト2019」&lt;br /&gt;
+を実施いたします。2009年から毎年開催しており、2019年で第11回目の開催となります。&lt;/p&gt;
+&lt;p&gt;また、2019年2月23日（土）に行われる最終審査会では、2017年ビジネス活用部門最優秀賞受賞者の&lt;br /&gt;
+灰示花火カタリスト 中田　光俊 氏の特別講演を行います。&lt;/p&gt;
+&lt;p&gt;応募方法等の詳細は以下のページをご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/biz-contest2019/&quot;&gt;&lt;img src=&quot;/biz-contest2019/images/banner_234-60.gif&quot; alt=&quot;松江オープンソース活用ビジネスプランコンテスト2019&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+          <pubDate>Mon, 15 Oct 2018 16:43:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2018/10/15/bpc2019/</guid>
+          <link>http://www.shimane-oss.org/events/2018/10/15/bpc2019/</link>
+        </item>
+    
+        <item>
+          <title>第123回オープンソースサロン＋忘年会</title>
+          <description>&lt;p&gt;第123回オープンソースサロンを開催します。&lt;br /&gt;
+（ワン、ツー、スリー！）&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;今回のサロンは、年内最後の開催となりますので、講演後に松江オープンソースラボにて盛大な忘年会を行います。&lt;br /&gt;
+忘年会に参加をご希望の方は、以下のサイトまたはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第123回オープンソースサロン 忘年会申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/110829/&quot;&gt;https://connpass.com/event/110829/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2018年12月4日(火) サロン：18時30分～19時30分、忘年会：19時30分〜21時００分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ&lt;/td&gt;
+		&lt;td&gt;高専プロコンのご紹介&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者&lt;/td&gt;
+		&lt;td&gt;松江高専 専攻科2年 川上 直人 氏、3年 鈴木 豪 氏、2年 居田 陸人 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要&lt;/td&gt;
+		&lt;td&gt;全国の高等専門学校の学生が日々学んだ情報技術をもとに競う、&lt;br /&gt;
+全国高等専門学校プログラミングコンテスト（通称&amp;quot;高専プロコン&amp;quot;）の紹介と、&lt;br /&gt;
+今年度松江高専が参加した競技部門についてお話しします。&lt;br /&gt;
+高専プロコンWebサイト： &lt;a href=&quot;http://www.procon.gr.jp/&quot;&gt;http://www.procon.gr.jp/&lt;/a&gt; &lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Tue, 27 Nov 2018 08:46:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2018/11/27/salon-123/</guid>
+          <link>http://www.shimane-oss.org/events/2018/11/27/salon-123/</link>
+        </item>
+    
+        <item>
+          <title>オープンソースカンファレンス 2018 Shimane</title>
+          <description>&lt;p&gt;「オープンソースカンファレンス 2018 Shimane」を松江で開催します。&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot; colspan=&quot;2&quot;&gt;&lt;nobr&gt;開催日&lt;/nobr&gt;&lt;/td&gt;
+		&lt;td&gt;2018年11月23日（金・祝）10:00〜17:00&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;&lt;nobr&gt;場　所&lt;/nobr&gt;&lt;/td&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;メイン会場&lt;/td&gt;
+		&lt;td&gt;松江テルサ4F &lt;span style=&quot;color: red;&quot;&gt;大会議室&lt;/span&gt; &lt;br /&gt;
+（チラシ・ポスターは中会議室ですが、大会議室になりました！）&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;&lt;/td&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;展示ブース&lt;/td&gt;
+		&lt;td&gt;松江テルサ4F研修室１、松江テルサ別館2F &lt;span style=&quot;color: red;&quot;&gt;松江オープンソースラボ&lt;/span&gt; &lt;br /&gt;
+（リニューアルしたラボも展示ブースとして使います！）&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;2017年の様子&lt;br /&gt;
+&lt;a href=&quot;https://www.ospn.jp/press/20171030osc2017-shimane-report.html&quot;&gt;https://www.ospn.jp/press/20171030osc2017-shimane-report.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2016年の様子&lt;br /&gt;
+&lt;a href=&quot;https://www.ospn.jp/press/20161013osc2016-shimane-report.html&quot;&gt;https://www.ospn.jp/press/20161013osc2016-shimane-report.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;松江での開催は、今回で11回目となります。&lt;br /&gt;
+今年も引き続き地元が主体となり、前回までと同様に以下のような形で開催いたします。&lt;/p&gt;
+&lt;p&gt;1. セミナーおよび展示の参加が無料！&lt;/p&gt;
+&lt;p&gt;　通常のOSCでは企業の参加には協賛金を頂いておりますが、島根開催は今回も無料で参加可能です。&lt;br /&gt;
+　コミュニティおよび個人の参加はこれまでどおり無料です。&lt;/p&gt;
+&lt;p&gt;2. セミナー枠の時間が短い！&lt;/p&gt;
+&lt;p&gt;　セミナー1枠の持ち時間は15分とします。&lt;br /&gt;
+　これにより、普段発表の機会が少ない方にもご参加しやすくなっております。&lt;br /&gt;
+　もし、15分以上の時間が欲しい方はお申し込みの際にご相談下さい。&lt;/p&gt;
+&lt;p&gt;3. 懇親会！&lt;/p&gt;
+&lt;p&gt;　毎年、大変盛り上がる（？！）懇親会を今年も行います。&lt;br /&gt;
+　こちらは定員がありますので、お早めにお申込み下さい。&lt;/p&gt;
+&lt;p&gt;4. 申し込み方法&lt;/p&gt;
+&lt;p&gt;　セミナーおよび展示を希望される方は、添付の申込書をしまねOSS協議会事務局までEメールにてご送付願います。&lt;br /&gt;
+　申込書送付先：&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;br /&gt;
+　申込書の受付は、【11月2日(金)を締切】とさせていただいていますが、募集枠が埋まり次第受付を終了させていただきますので、お早めにお申し込み下さい。&lt;br /&gt;
+　また、公式サイトにて最新情報を順次公開していきますので、こちらもあわせてご参照下さい。&lt;br /&gt;
+　申込書：&lt;a href=&quot;/assets/161/OSC2018_Shimane_Appli_v1-6.ods&quot;&gt;オープンソースカンファレンス2018 Shimane 発表・展示申込書(ods)&lt;/a&gt;&lt;br /&gt;
+　　　　　&lt;a href=&quot;/assets/162/OSC2018_Shimane_Appli_v1-6.xlsx&quot;&gt;オープンソースカンファレンス2018 Shimane 発表・展示申込書(xlsx)&lt;/a&gt;&lt;br /&gt;
+　公式サイト：&lt;a href=&quot;https://www.ospn.jp/osc2018-shimane/&quot;&gt;https://www.ospn.jp/osc2018-shimane/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;当日は一人でも多くの方がOSSに触れ、交流し、OSSの「今」を感じて頂きたく、皆様お誘いあわせのうえご参加頂けることを願っております。&lt;/p&gt;
+&lt;p&gt;＊　詳細な内容につきましては公式Webサイトをご参照頂き、セミナーや展示の内容をご確認下さい。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ospn.jp/osc2018-shimane/&quot;&gt;http://www.ospn.jp/osc2018-shimane/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.ospn.jp/osc2018-shimane/&quot;&gt;&lt;img src=&quot;/assets/163/OSC2018Shimane_poster.png&quot;  alt='OSC2018Shimaneポスター' /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+          <pubDate>Fri, 14 Sep 2018 21:36:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2018/09/14/osc2018shimane/</guid>
+          <link>http://www.shimane-oss.org/events/2018/09/14/osc2018shimane/</link>
+        </item>
+    
+        <item>
+          <title>「RubyWorld Conference 2018」開催</title>
+          <description>&lt;p&gt;今年もRuby市場、ビジネスの拡大を目指して「RubyWorld Conference 2018」を開催いたします。&lt;br /&gt;
+今回で「RubyWorld Conference」は10周年となります。&lt;br /&gt;
+しまねOSS協議会は、実行委員会のメンバーならびにGoldスポンサーとして「RubyWorld Conference」の開催を支援しています。&lt;/p&gt;
+&lt;p&gt;■開　催：2018年11月1日(木)、2日(金)&lt;br /&gt;
+■会　場：島根県立産業交流会館「くにびきメッセ」&lt;br /&gt;
+■主　催：RubyWorld Conference開催実行委員会&lt;br /&gt;
+■基調講演者：&lt;br /&gt;
+　基調講演1：まつもと ゆきひろ 氏 ((一財)Rubyアソシエーション 理事長)&lt;br /&gt;
+　基調講演2：Chad Fowler 氏&lt;br /&gt;
+■入場料：5,000円/名&lt;br /&gt;
+■最新情報はWEBサイトから！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://2018.rubyworld-conf.org/&quot;&gt;https://2018.rubyworld-conf.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://2018.rubyworld-conf.org/&quot;&gt;&lt;img src=&quot;/assets/160/RWC2018_Sponsorbanner_01.jpg&quot;  alt='Ruby World Conference 2018 sponsor 234 60' /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+          <pubDate>Wed, 25 Jul 2018 12:30:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2018/07/25/rubyworld-conference-2018/</guid>
+          <link>http://www.shimane-oss.org/events/2018/07/25/rubyworld-conference-2018/</link>
+        </item>
+    
+        <item>
+          <title>第122回オープンソースサロン・総会記念講演</title>
+          <description>&lt;p&gt;第122回オープンソースサロンを開催します。　&lt;br /&gt;
+今回は、しまねOSS協議会年次総会記念講演となります。&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;サロンの後に懇親会を行います。懇親会に参加をご希望の方は、以下のサイト&lt;br /&gt;
+またはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第122回オープンソースサロン 懇親会申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/94357/&quot;&gt;https://connpass.com/event/94357/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2018年7月19日(木) 18時30分～20時00分&lt;br /&gt;
+会場：　松江テルサ４階　中会議室&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;タイトル&lt;/td&gt;
+		&lt;td&gt;第4次産業革命を加速するエコシステム構築の鍵&lt;br /&gt;
+〜入り乱れしモノリシックとマイクロサービス〜&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;講演者&lt;/td&gt;
+		&lt;td&gt;株式会社オプティム プラットフォーム事業本部 執行役員 山本 大祐 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要&lt;/td&gt;
+		&lt;td&gt;少子高齢化、担い手不足が業界問わず叫ばれる課題先進国ニッポン。第4次産&lt;br /&gt;
+業革命の波を乗りこなすためのテクノロジーについて、オプティムのAI・IoT&lt;br /&gt;
+を活用した農業・医療・建設・小売 等の各事例をもとにお話をすると共に、&lt;br /&gt;
+その裏側のアーキテクチャに迫ります。&lt;br /&gt;
+モノリシックとマイクロサービスはパラダイムシフトであるのか、共存の道を&lt;br /&gt;
+歩むのか、必見です！&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Thu, 28 Jun 2018 10:42:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2018/06/28/salon-122/</guid>
+          <link>http://www.shimane-oss.org/events/2018/06/28/salon-122/</link>
+        </item>
+    
+        <item>
+          <title>第121回オープンソースサロン</title>
+          <description>&lt;p&gt;第121回オープンソースサロンを開催します。　&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;サロンの後に懇親会を行います。懇親会に参加をご希望の方は、以下のサイト&lt;br /&gt;
+またはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第121回オープンソースサロン 懇親会申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/84844/&quot;&gt;https://connpass.com/event/84844/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2018年5月18日(金) 18時30分～20時00分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ&lt;/td&gt;
+		&lt;td&gt;固定電話網（PSTN）からIP 網への移行：利用者からみた課題&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者&lt;/td&gt;
+		&lt;td&gt;駒澤大学名誉教授 福家 秀紀 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要&lt;/td&gt;
+		&lt;td&gt;NTTの固定電話網からIP網への移行計画の概要を紹介した上で、&lt;br /&gt;
+IT事業者として対応すべき課題について&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Fri, 11 May 2018 13:42:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2018/05/11/salon-121/</guid>
+          <link>http://www.shimane-oss.org/events/2018/05/11/salon-121/</link>
+        </item>
+    
+        <item>
+          <title>第120回オープンソースサロン</title>
+          <description>&lt;p&gt;第120回オープンソースサロンを開催します。　&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;サロンの後に懇親会を行います。懇親会に参加をご希望の方は、以下のサイト&lt;br /&gt;
+またはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第120回オープンソースサロン 懇親会申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/82606/&quot;&gt;https://connpass.com/event/82606/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2018年4月13日(金) 18時30分～20時00分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ１&lt;/td&gt;
+		&lt;td&gt;「新しい産業集積に関する議論」から見た Ruby City &lt;span class=&quot;caps&quot;&gt;MATSUE&lt;/span&gt; プロジェクト&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者&lt;/td&gt;
+		&lt;td&gt;島根大学 人文社会科学研究科 田中 哲也 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要&lt;/td&gt;
+		&lt;td&gt;島根県松江市はRubyを産業振興の軸に据え情報産業の集積を進めている。&lt;br /&gt;
+プロジェクトの11年間を「social capital」「embeddedness」アプローチに&lt;br /&gt;
+着目し考察しましたので報告します。それは有効に作用したのか？その可能性を&lt;br /&gt;
+探り新しい産業集積に対する未来像を提供する。&lt;br /&gt;
+資料： &lt;a href=&quot;/assets/158/第120回オープンソースサロン報告資料_田中氏_.pdf&quot;&gt;第120回オープンソースサロン報告資料(田中氏)&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ２&lt;/td&gt;
+		&lt;td&gt;パソナテック「島根Lab」について&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者&lt;/td&gt;
+		&lt;td&gt;株式会社パソナテック WEBソリューション事業部 島根Lab 田窪 大樹 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要&lt;/td&gt;
+		&lt;td&gt;創業40年を超える東証一部上場・総合人材サービス会社パソナグループの一員&lt;br /&gt;
+としてIT領域に特化してHRサービスを展開してきた株式会社パソナテックが、&lt;br /&gt;
+2017年9月1日に松江市朝日町に「島根Lab」を開設いたしました。エンジニアの&lt;br /&gt;
+採用・育成による雇用拡大、また産学連携を通じて島根県および松江市の&lt;br /&gt;
+産業振興を図ることを目的とした”新しい形”の開発拠点です。&lt;br /&gt;
+島根の皆様へのご挨拶も兼ねて、開設してからこれまで半年間の取り組み&lt;br /&gt;
+について、また、今後の展望についてご紹介いたします。&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Sat, 17 Mar 2018 15:35:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2018/03/17/salon-120/</guid>
+          <link>http://www.shimane-oss.org/events/2018/03/17/salon-120/</link>
+        </item>
+    
+        <item>
+          <title>第119回オープンソースサロン</title>
+          <description>&lt;p&gt;第119回オープンソースサロンを開催します。　&lt;/p&gt;
+&lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。&lt;br /&gt;
+事前の申し込みも必要ありません。当日会場まで御気軽にお越しください。&lt;/p&gt;
+&lt;p&gt;サロンの後に懇親会を行います。懇親会に参加をご希望の方は、以下のサイト&lt;br /&gt;
+またはメールでお申し込みください。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;第119回オープンソースサロン 懇親会申し込みサイト&lt;br /&gt;
+&lt;a href=&quot;https://connpass.com/event/78976/&quot;&gt;https://connpass.com/event/78976/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;しまねOSS協議会事務局メール&lt;br /&gt;
+&lt;a href=&quot;mailto:info@shimane-oss.org&quot;&gt;info@shimane-oss.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ご来場をお待ちしております。&lt;/p&gt;
+&lt;p&gt;日時：　2018年2月21日(水) 18時30分～20時00分&lt;br /&gt;
+会場：　松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt;
+&lt;table id=&quot;program&quot;&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;テーマ&lt;/td&gt;
+		&lt;td&gt;Pepper誕生秘話と最新事例から学ぶロボット革命&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;発表者&lt;/td&gt;
+		&lt;td&gt;ソフトバンクロボティクス株式会社&lt;br /&gt;
+事業推進本部 事業開発統括部 事業開発部 デベロッパー戦略課 村林 圭子 氏&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td style=&quot;vertical-align:top;&quot;&gt;概　要&lt;/td&gt;
+		&lt;td&gt;今でこそ日常的に見かけるようになったPepperですが、コンセプト作りからハードウェアの細部設計&lt;br /&gt;
+まで様々な想いが込められており、その想いを実現するために沢山の試行錯誤がありました。&lt;br /&gt;
+ソフトバンクが懸ける想いをご理解いただくため、その誕生秘話を一部ご紹介します。&lt;br /&gt;
+私達の挑戦は続いており、決して楽な道のりとは言えません。この数年で私達が&lt;br /&gt;
+挑んできたチャレンジや、私達と一歩踏み出してくれた企業様の事例をご紹介いたします。&lt;br /&gt;
+これから待っているロボットと暮らす未来がどんなものか、一緒に考えてみませんか？&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description>
+          <pubDate>Sat, 06 Jan 2018 12:40:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2018/01/06/salon-119/</guid>
+          <link>http://www.shimane-oss.org/events/2018/01/06/salon-119/</link>
+        </item>
+    
+        <item>
+          <title>松江オープンソース活用ビジネスプランコンテスト2018のお知らせ</title>
+          <description>&lt;p&gt;しまねOSS協議会と松江市は、プログラミング言語Rubyに代表されるオープンソースに関する&lt;br /&gt;
+広報、啓発活動並びにオープンソースに対する理解を高めるため、&lt;br /&gt;
+「松江オープンソース活用ビジネスプランコンテスト2018」&lt;br /&gt;
+を実施いたします。2009年から毎年開催しており、2018年で第10回目の開催となります。&lt;/p&gt;
+&lt;p&gt;また、2018年2月17日（土）に行われる最終審査会では、第10回記念講演として&lt;br /&gt;
+Lean Startup Japan &lt;span class=&quot;caps&quot;&gt;LLC&lt;/span&gt; 代表社員 和波　俊久 氏の特別講演を行います。&lt;/p&gt;
+&lt;p&gt;応募方法の詳細は以下のページをご覧ください。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/biz-contest2018/&quot;&gt;&lt;img src=&quot;/biz-contest2018/images/banner_234-60.gif&quot; alt=&quot;松江オープンソース活用ビジネスプランコンテスト2018&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+          <pubDate>Mon, 30 Oct 2017 11:45:00 GMT</pubDate>
+          <guid>http://www.shimane-oss.org/events/2017/10/30/bpc2018/</guid>
+          <link>http://www.shimane-oss.org/events/2017/10/30/bpc2018/</link>
+        </item>
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+@charset "utf8";
+/* トップページ */
+
+body{
+	padding: 0px 80px 20px 0px;
+	border-left: 0px;
+}
+
+
+#header{
+	display: none;
+}
+
+
+#contents-side{
+	display: none;
+}
+
+
+#contents-main {
+	margin: 0px;
+}
+
+
+#contents-main h2{
+	color: black;
+}
+
+#contents-main h3{
+	color: black;
+}
+
+#contents-main h4{
+	color: black;
+}
+
+#contents-main p{
+	margin-bottom: 1em;
+	margin-left: 10px;
+}
+
+#contents-main p.begin{
+	margin-bottom: 0.5em;
+}
+
+#contents-main p.pdf{
+	width: 70%;
+	padding: 10px 20px;
+	border: 1px solid #505050;
+}
+
+#contents-main p em{
+	font-size: 1.1em;
+	color: black;
+}
+
+#contents-main ul {
+	margin-bottom: 1em;
+}
+
+
+#contents-main .section{
+	border-bottom: 1px solid #999;
+}
+
+#contents-main table#program{
+	margin-bottom: 20px;
+	border: 1px solid #404040;
+	color: #black;
+}
+
+#contents-main table#program td{
+	padding: 0.5em 10px;
+	color: #black;
+}
+
+#contents-main table#program td em{
+	font-size: 1.4em;
+}
+
+/* Footer */
+#footer{
+	display: none;
+}

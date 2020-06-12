@@ -1,0 +1,70 @@
+@charset "utf8";
+/* UA デフォルトスタイル上書き */
+
+body{
+	margin: 0px;
+	padding: 0px;
+	line-height: 1.5;
+	background-color: #303030;
+	font-family: 'Arial', 'Helvetica', 'Meiryo', 'ヒラギノ角ゴ Pro W3', 'ＭＳ Ｐゴシック', Osaka, sans-serif;
+	font-size: 80%;
+	color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6,
+p,
+dl, ul, ol,
+table, caption, td, th,
+form,
+object, embed,
+address,
+em{
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1.0em;
+}
+
+ul, ol{
+	list-style-position: inside;
+}
+
+/* comment out by kuro@netlab.jp
+dl dd{
+	margin-left: 0px;
+}
+*/
+
+dl {
+	margin-left: 10px;
+}
+
+a:link{
+	background-color: transparent;
+	text-decoration: underline;
+	color: #ff6633;
+}
+
+a:visited{
+	background-color: transparent;
+	text-decoration: underline;
+	color: #ff6633;
+}
+
+a:hover{
+	background-color: transparent;
+	text-decoration: none;
+	color: #cccccc;
+}
+
+a:active{
+	background-color: transparent;
+	text-decoration: none;
+	color: #ff6633;
+}
+
+a img{
+	border: none;
+}
